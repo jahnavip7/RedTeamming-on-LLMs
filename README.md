@@ -1,8 +1,8 @@
-🛡️ Red Teaming Attack on LLM Agents
-Exploring security vulnerabilities in scientific LLM agents (CACTUS & PaperQA) through prompt injection attacks.
+**🛡️ Red Teaming Attack on LLM Agents
+**Exploring security vulnerabilities in scientific LLM agents (CACTUS & PaperQA) through prompt injection attacks.
 
-📌 Project Overview
-This project investigates prompt injection attacks on scientific LLM agents, specifically:
+**📌 Project Overview
+**This project investigates prompt injection attacks on scientific LLM agents, specifically:
 
 CACTUS (Chemistry Agent Connecting Tool-Usage to Science)
 PaperQA (Retrieval-Augmented Generative Agent for Scientific Research)
