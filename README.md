@@ -118,6 +118,6 @@ Impact: Leads to biased or misleading research outputs.
 📜 See Appendix for the full attack dataset.
 
 👥 Contributors
-Jahnavi Priya Bommareddy 
-Hari Priya Muppidi 
-Piyush Rajendra 
+- Jahnavi Priya Bommareddy 
+- Hari Priya Muppidi 
+- Piyush Rajendra 
